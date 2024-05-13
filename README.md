@@ -1,4 +1,3 @@
-![Main](https://r4gast.github.io/blog/media/Main.png)
+![Main](https://r4gast.github.io/blog/media/M1.png)
 
-
-Welcome Page for Articles about Security & DFIR & Tech
+Welcome Page for Random Articles about Security & DFIR & Tech
