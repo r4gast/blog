@@ -11,7 +11,7 @@ App |
 
 
 
-## Logging Options for AWS EKS
+## Logging Options -> AWS EKS Control Plane Logging
 
 ### API server (api) 
 Your cluster's API server is the control plane component that exposes the Kubernetes API. If you enable API server logs when you launch the cluster, or shortly thereafter, the logs include API server flags that were used to start the API server. For more information, see kube-apiserver and the audit policy in the Kubernetes documentation.
