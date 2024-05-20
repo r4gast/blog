@@ -33,6 +33,13 @@ The scheduler component manages when and where to run Pods in your cluster. For 
 in the Kubernetes documentation.
 
 
+## Checklist
+
+* Creator of EKS Cluster --> Automatically granted system:master
+* endpointPublicAccess': True --> Means Accessible from Internet
+* OS-hardening frameworks(like AppArmor or SELinux)
+* Collecting and analyzing OS logs to detect possible breaches
+
  
 
 ## Threats
